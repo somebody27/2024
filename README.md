@@ -15,6 +15,13 @@
 |2| [ ]( ) |  |  | | <details>  <summary></summary><ol>  <li></li>  <li></li>  <li></li></ol></details>|
 |3| [ ]( ) |  |  | | <details>  <summary></summary><ol>  <li></li>  <li></li>  <li></li></ol></details>|
 
+### progress
+|No| title | date | type | again | tips |
+|------| ------- | ------- | ------- | ------- | -------|
+|1| [Computer Science](https://github.com/izackwu/TeachYourselfCS-CN/tree/master) |  |  | | <details>  <summary></summary><ol>  <li></li>  <li></li>  <li></li></ol></details>|
+|2| [ ]( ) |  |  | | <details>  <summary></summary><ol>  <li></li>  <li></li>  <li></li></ol></details>|
+|3| [ ]( ) |  |  | | <details>  <summary></summary><ol>  <li></li>  <li></li>  <li></li></ol></details>|
+
 ### website
 |No| type | site |
 |------| ------- | ------- |
