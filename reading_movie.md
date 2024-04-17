@@ -25,31 +25,13 @@
 
 #### Reading
 ##### <span id ="srljjsjxt">[《深入理解计算机系统》](https://github.com/DreamAndDead/CSAPP-3e-Solutions)</span>
-- <details>
-  <summary></summary>
-  <ol>
-    <li></li> 
-    <li></li>
-    <li></li>
-  </ol></details>
+-
 
 
 #### To Read
 - <span id ="srljjsjxt111">[C语言程序设计: 现代方法](https://book.douban.com/subject/4279678/)
-- <details>
-  <summary></summary>
-  <ol>
-    <li></li> 
-    <li></li>
-    <li></li>
-  </ol></details>
+- 
 
 ### Study List
 -  <span id ="srljjsjxt222">[ ] [计算机缺失的课程](https://missing-semester-cn.github.io/)
-- <details>
-  <summary></summary>
-  <ol>
-    <li></li> 
-    <li></li>
-    <li></li>
-  </ol></details>
+- 
